@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PromptUsersForInput20230424000326" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^H:\\Fiverr\ Azure\ Chat\ Bot\\botbuilder-samples\\samples\\csharp_dotnetcore\\44\.prompt-users-for-input\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
