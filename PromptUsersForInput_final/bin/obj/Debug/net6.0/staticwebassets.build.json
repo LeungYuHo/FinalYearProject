@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "f4M2eOLPg+WHhUYA1EUyCmMyQg/FMA0Tn1Rs8WQoFcc=",
+  "Source": "PromptUsersForInput",
+  "BasePath": "_content/PromptUsersForInput",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PromptUsersForInput\\wwwroot",
+      "Source": "PromptUsersForInput",
+      "ContentRoot": "H:\\PromptUsersForInput\\PromptUsersForInput\\PromptUsersForInput\\wwwroot\\",
+      "BasePath": "_content/PromptUsersForInput",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "H:\\PromptUsersForInput\\PromptUsersForInput\\PromptUsersForInput\\wwwroot\\default.htm",
+      "SourceId": "PromptUsersForInput",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\PromptUsersForInput\\PromptUsersForInput\\PromptUsersForInput\\wwwroot\\",
+      "BasePath": "_content/PromptUsersForInput",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

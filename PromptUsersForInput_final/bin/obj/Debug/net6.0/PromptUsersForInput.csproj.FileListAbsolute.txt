@@ -1,0 +1,126 @@
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\appsettings.Development.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-AzureBot-with-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-BotApp-with-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-AzureBot-with-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-BotApp-with-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-AzureBot-new-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-BotApp-new-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-AzureBot-new-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-BotApp-new-rg.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\PromptUsersForInput.staticwebassets.runtime.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\PromptUsersForInput.exe
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\appsettings.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\PromptUsersForInput.deps.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\PromptUsersForInput.runtimeconfig.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\PromptUsersForInput.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\PromptUsersForInput.pdb
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Bot.Builder.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Bot.Configuration.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Bot.Connector.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Bot.Connector.Streaming.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Bot.Schema.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Bot.Streaming.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Recognizers.Definitions.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Recognizers.Text.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Recognizers.Text.DateTime.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Recognizers.Text.Number.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.csproj.AssemblyReference.cache
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.GeneratedMSBuildEditorConfig.editorconfig
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.AssemblyInfoInputs.cache
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.AssemblyInfo.cs
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.csproj.CoreCompileInputs.cache
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.MvcApplicationPartsAssemblyInfo.cs
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.MvcApplicationPartsAssemblyInfo.cache
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\staticwebassets\msbuild.PromptUsersForInput.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\staticwebassets\msbuild.build.PromptUsersForInput.props
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PromptUsersForInput.props
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PromptUsersForInput.props
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\staticwebassets.pack.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\staticwebassets.build.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\staticwebassets.development.json
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\scopedcss\bundle\PromptUsersForInput.styles.css
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.csproj.CopyComplete
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\refint\PromptUsersForInput.dll
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.pdb
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\PromptUsersForInput.genruntimeconfig.cache
+H:\Fiverr Azure Chat Bot\botbuilder-samples\samples\csharp_dotnetcore\44.prompt-users-for-input\obj\Debug\net6.0\ref\PromptUsersForInput.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.csproj.AssemblyReference.cache
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.GeneratedMSBuildEditorConfig.editorconfig
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.AssemblyInfoInputs.cache
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.AssemblyInfo.cs
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.csproj.CoreCompileInputs.cache
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.MvcApplicationPartsAssemblyInfo.cs
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.MvcApplicationPartsAssemblyInfo.cache
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\refint\PromptUsersForInput.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.pdb
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\appsettings.Development.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-AzureBot-with-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-BotApp-with-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-AzureBot-with-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-BotApp-with-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-AzureBot-new-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-BotApp-new-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-AzureBot-new-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-BotApp-new-rg.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\PromptUsersForInput.staticwebassets.runtime.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\PromptUsersForInput.exe
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\appsettings.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\PromptUsersForInput.deps.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\PromptUsersForInput.runtimeconfig.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\PromptUsersForInput.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\PromptUsersForInput.pdb
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Bot.Builder.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Bot.Configuration.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Bot.Connector.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Bot.Connector.Streaming.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Bot.Schema.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Bot.Streaming.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Recognizers.Definitions.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Recognizers.Text.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Recognizers.Text.DateTime.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Recognizers.Text.Number.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\staticwebassets\msbuild.PromptUsersForInput.Microsoft.AspNetCore.StaticWebAssets.props
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\staticwebassets\msbuild.build.PromptUsersForInput.props
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PromptUsersForInput.props
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PromptUsersForInput.props
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\staticwebassets.pack.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\staticwebassets.build.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\staticwebassets.development.json
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\scopedcss\bundle\PromptUsersForInput.styles.css
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.csproj.CopyComplete
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\PromptUsersForInput.genruntimeconfig.cache
+H:\PromptUsersForInput\PromptUsersForInput\PromptUsersForInput\obj\Debug\net6.0\ref\PromptUsersForInput.dll
